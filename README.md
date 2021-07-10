@@ -1,2 +1,2 @@
-# itzi-api
-API for Itzi project
+# Itzi API
+API for Itzi project based on ASP.NET Boilerplate
